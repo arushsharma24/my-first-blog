@@ -1,0 +1,8 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+dgvenv
+db.splite3
+/static
+.DS_Store
